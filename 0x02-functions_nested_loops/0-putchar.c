@@ -18,7 +18,6 @@ int main(void)
 	_putchar('x');
 	_putchar('m');
 	_putchar('z');
-	_putchar('b');
 	_putchar('\n');
 	return (0);
 }
