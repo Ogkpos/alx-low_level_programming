@@ -10,14 +10,14 @@
 
 int main(void)
 {
-	_putchar('u');
+	_putchar('_');
 	_putchar('p');
-	_putchar('i');
-	_putchar('o');
-	_putchar('y');
-	_putchar('x');
-	_putchar('m');
-	_putchar('z');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
 	return (0);
 }
